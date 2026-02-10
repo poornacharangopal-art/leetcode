@@ -17,6 +17,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
