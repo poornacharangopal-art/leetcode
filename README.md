@@ -12,6 +12,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +36,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
