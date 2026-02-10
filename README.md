@@ -9,6 +9,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,5 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
