@@ -44,5 +44,6 @@ MY LEETCODE SOLUTIONS IN C++
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
