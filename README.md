@@ -14,6 +14,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
