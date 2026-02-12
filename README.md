@@ -21,6 +21,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +51,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +85,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
