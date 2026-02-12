@@ -20,6 +20,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -50,6 +51,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
@@ -86,6 +88,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
@@ -93,11 +96,13 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -108,6 +113,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/poornacharangopal-art/leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -116,4 +122,12 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
