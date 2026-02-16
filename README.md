@@ -90,6 +90,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0263-ugly-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -158,4 +159,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
