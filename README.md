@@ -86,6 +86,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
@@ -117,6 +118,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
 ## Bucket Sort
