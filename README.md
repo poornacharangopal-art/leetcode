@@ -8,6 +8,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
@@ -87,6 +88,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
