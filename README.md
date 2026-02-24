@@ -21,6 +21,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0137-single-number-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/poornacharangopal-art/leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/poornacharangopal-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/poornacharangopal-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +57,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/poornacharangopal-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
