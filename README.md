@@ -39,6 +39,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +91,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
