@@ -36,6 +36,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
