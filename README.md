@@ -140,6 +140,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0342-power-of-four](https://github.com/poornacharangopal-art/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -233,4 +235,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
