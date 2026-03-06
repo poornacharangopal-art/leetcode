@@ -189,6 +189,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Bucket Sort
 |  |
 | ------- |
