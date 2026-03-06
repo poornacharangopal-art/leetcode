@@ -136,6 +136,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -235,6 +236,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/poornacharangopal-art/leetcode/tree/master/0342-power-of-four) |
 ## Counting Sort
