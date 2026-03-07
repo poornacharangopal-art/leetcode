@@ -246,6 +246,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0021-merge-two-sorted-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/poornacharangopal-art/leetcode/tree/master/0342-power-of-four) |
@@ -295,6 +296,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0092-reverse-linked-list-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
