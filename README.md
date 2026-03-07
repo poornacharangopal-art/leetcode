@@ -284,4 +284,5 @@ MY LEETCODE SOLUTIONS IN C++
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
