@@ -136,6 +136,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
@@ -236,6 +237,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/0326-power-of-three) |
@@ -277,6 +279,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
