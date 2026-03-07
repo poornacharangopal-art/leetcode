@@ -48,6 +48,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -260,10 +261,12 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -301,6 +304,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0206-reverse-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
