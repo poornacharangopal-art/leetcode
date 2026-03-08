@@ -10,6 +10,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
