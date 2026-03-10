@@ -169,6 +169,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
@@ -201,6 +202,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
@@ -327,4 +329,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
