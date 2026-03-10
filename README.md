@@ -153,6 +153,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
@@ -172,6 +173,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/poornacharangopal-art/leetcode/tree/master/0217-contains-duplicate) |
@@ -207,6 +209,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/poornacharangopal-art/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
