@@ -301,6 +301,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -309,6 +310,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -340,4 +342,12 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
