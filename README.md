@@ -6,6 +6,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
@@ -176,6 +177,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
