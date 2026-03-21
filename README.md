@@ -19,6 +19,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -321,12 +323,14 @@ MY LEETCODE SOLUTIONS IN C++
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -335,6 +339,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
