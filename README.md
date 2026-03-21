@@ -136,6 +136,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +167,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0263-ugly-number) |
@@ -315,15 +317,18 @@ MY LEETCODE SOLUTIONS IN C++
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
