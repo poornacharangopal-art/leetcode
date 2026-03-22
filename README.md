@@ -39,6 +39,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0260-single-number-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -72,6 +73,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0162-find-peak-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poornacharangopal-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
