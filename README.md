@@ -337,6 +337,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0112-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -358,6 +359,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0112-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -401,12 +403,14 @@ MY LEETCODE SOLUTIONS IN C++
 | [0112-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Enumeration
 |  |
 | ------- |
