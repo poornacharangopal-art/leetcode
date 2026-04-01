@@ -343,6 +343,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -356,6 +357,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -375,6 +377,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -424,6 +427,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
