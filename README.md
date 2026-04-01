@@ -142,6 +142,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -330,6 +331,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
@@ -349,6 +351,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -360,6 +363,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
@@ -405,6 +409,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
