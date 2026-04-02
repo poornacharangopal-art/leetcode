@@ -11,6 +11,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
@@ -110,6 +111,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
@@ -420,6 +422,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
