@@ -233,6 +233,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/poornacharangopal-art/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
@@ -309,6 +310,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
