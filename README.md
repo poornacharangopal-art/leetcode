@@ -53,6 +53,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -322,6 +323,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -333,6 +335,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 ## Union-Find
 |  |
