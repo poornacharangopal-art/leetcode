@@ -220,6 +220,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -248,6 +249,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -262,6 +264,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
@@ -508,4 +511,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
