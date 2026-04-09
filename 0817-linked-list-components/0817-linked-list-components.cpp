@@ -11,22 +11,13 @@
 class Solution {
 public:
     int numComponents(ListNode* head, vector<int>& nums) {
-        vector<int>v;
+        unordered_set<int>s(nums.begin(),nums.end());
+        int count=0;
         while(head!=NULL){
-            v.push_back(head->val);
+            if(s.count(head->val)&&(head->next==NULL||!s.count(head->next->val))){
+                count++;
+            }
             head=head->next;
-        }
-        int i=0,count=0;
-        while(i<v.size()){
-            if(find(nums.begin(),nums.end(),v[i])==nums.end()){
-                i++;
-                continue;
-            }
-            while(i<v.size()&&find(nums.begin(),nums.end(),v[i])!=nums.end()){
-                i++;
-            }
-            count++;
-            i++;
         }
         return count;
     }
