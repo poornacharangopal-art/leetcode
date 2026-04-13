@@ -237,6 +237,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
@@ -290,6 +291,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
@@ -507,6 +509,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
