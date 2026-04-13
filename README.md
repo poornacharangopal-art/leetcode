@@ -9,6 +9,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0001-two-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/poornacharangopal-art/leetcode/tree/master/0046-permutations) |
@@ -101,6 +102,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
