@@ -7,13 +7,11 @@ public:
         int i=0;
         int count=0;
         while(i<s.size()-2){
-            unordered_map<char,int>m;
-            string s1=s.substr(i,3);
-            for(char x:s1){
-                m[x]+=1;
-            }
-            if(m.size()==3){
-                count+=1;
+            char a=s[i];
+            char b=s[i+1];
+            char c=s[i+2];
+            if(a!=b&&b!=c&&a!=c){
+                count++;
             }
             i++;
         }
