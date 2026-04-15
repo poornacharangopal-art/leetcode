@@ -68,6 +68,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -523,6 +524,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -557,6 +559,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Doubly-Linked List
 |  |
