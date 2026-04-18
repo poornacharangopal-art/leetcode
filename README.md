@@ -83,6 +83,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornacharangopal-art/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -268,6 +269,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornacharangopal-art/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
