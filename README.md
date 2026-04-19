@@ -78,6 +78,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2057-smallest-index-with-equal-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
