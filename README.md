@@ -243,6 +243,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -532,6 +533,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0817-linked-list-components](https://github.com/poornacharangopal-art/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/poornacharangopal-art/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
