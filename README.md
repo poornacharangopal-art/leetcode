@@ -82,6 +82,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -434,6 +435,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/poornacharangopal-art/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
@@ -626,6 +628,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
