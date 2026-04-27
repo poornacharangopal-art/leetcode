@@ -47,6 +47,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,6 +111,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0222-count-complete-tree-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
@@ -139,6 +141,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poornacharangopal-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
@@ -216,6 +219,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0222-count-complete-tree-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/poornacharangopal-art/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/poornacharangopal-art/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
