@@ -3,24 +3,17 @@ public:
     int mostFrequentEven(vector<int>& nums) {
         unordered_map<int,int>mp;
          vector<int>v;
+         int maxfrequency=0;
+         int ans=-1;
         for(int x:nums){
             if(x%2==0){
                 mp[x]++;
-                if(mp[x]==1){
-                v.push_back(x);
+                if(mp[x]>maxfrequency||(mp[x]==maxfrequency&&x<ans)){
+                maxfrequency=mp[x];
+                ans=x;
             }
             }
         }
-       
-        sort(v.begin(),v.end(),[&](int a,int b){
-            if(mp[a]==mp[b])
-            return a<b;
-            return mp[a]>mp[b];
-        });
-        if(v.size()==0){
-            return -1;
-        }
-        return v[0];
-        
+        return ans;
     }
 };
