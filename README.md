@@ -379,6 +379,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2490-circular-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/2490-circular-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
