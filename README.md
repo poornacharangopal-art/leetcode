@@ -400,6 +400,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -521,6 +522,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -564,6 +566,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -661,6 +664,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -729,4 +733,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/poornacharangopal-art/leetcode/tree/master/0382-linked-list-random-node) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
