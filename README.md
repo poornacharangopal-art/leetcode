@@ -166,6 +166,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -395,6 +396,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2490-circular-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/2490-circular-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
+| [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 ## Bucket Sort
 |  |
