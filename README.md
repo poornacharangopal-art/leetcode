@@ -378,6 +378,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poornacharangopal-art/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -407,6 +408,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
