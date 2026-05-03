@@ -374,6 +374,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
