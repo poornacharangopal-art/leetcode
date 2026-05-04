@@ -14,6 +14,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/poornacharangopal-art/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
@@ -252,6 +253,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
@@ -438,6 +440,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0766-toeplitz-matrix) |
