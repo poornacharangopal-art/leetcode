@@ -123,6 +123,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0222-count-complete-tree-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/poornacharangopal-art/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -765,4 +766,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/poornacharangopal-art/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
