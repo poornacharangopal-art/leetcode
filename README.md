@@ -77,6 +77,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0817-linked-list-components](https://github.com/poornacharangopal-art/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -452,6 +454,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -686,6 +689,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poornacharangopal-art/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -739,6 +743,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -757,6 +762,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -770,6 +776,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Number Theory
 |  |
