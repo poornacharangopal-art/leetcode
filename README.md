@@ -757,6 +757,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
@@ -764,6 +765,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -795,4 +797,8 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0278-first-bad-version](https://github.com/poornacharangopal-art/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/poornacharangopal-art/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
