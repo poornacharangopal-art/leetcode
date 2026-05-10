@@ -52,6 +52,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0274-h-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -743,6 +744,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/poornacharangopal-art/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
@@ -772,6 +774,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
