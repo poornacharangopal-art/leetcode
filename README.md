@@ -402,6 +402,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/poornacharangopal-art/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -521,6 +522,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/poornacharangopal-art/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
