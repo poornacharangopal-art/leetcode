@@ -304,6 +304,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/poornacharangopal-art/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/poornacharangopal-art/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -347,6 +348,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0817-linked-list-components](https://github.com/poornacharangopal-art/leetcode/tree/master/0817-linked-list-components) |
 | [1207-unique-number-of-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/poornacharangopal-art/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -385,6 +387,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
