@@ -109,6 +109,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornacharangopal-art/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
@@ -363,6 +364,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poornacharangopal-art/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -726,6 +728,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
