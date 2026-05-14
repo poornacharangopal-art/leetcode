@@ -544,6 +544,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0150-evaluate-reverse-polish-notation](https://github.com/poornacharangopal-art/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/poornacharangopal-art/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
@@ -793,6 +794,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
@@ -804,6 +806,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poornacharangopal-art/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0707-design-linked-list) |
