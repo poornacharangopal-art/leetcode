@@ -543,6 +543,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0145-binary-tree-postorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/poornacharangopal-art/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/poornacharangopal-art/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/poornacharangopal-art/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -794,6 +795,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/poornacharangopal-art/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -806,6 +808,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poornacharangopal-art/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/poornacharangopal-art/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/poornacharangopal-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/poornacharangopal-art/leetcode/tree/master/0641-design-circular-deque) |
