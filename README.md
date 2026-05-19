@@ -105,6 +105,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/poornacharangopal-art/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -149,6 +150,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -362,6 +365,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
