@@ -94,6 +94,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/poornacharangopal-art/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/1816-truncate-sentence) |
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
