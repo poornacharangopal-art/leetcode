@@ -123,6 +123,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -156,6 +157,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -242,6 +245,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +272,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
