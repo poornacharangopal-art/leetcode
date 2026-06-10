@@ -1,8 +1,13 @@
 class Solution {
 public:
     long long maxTotalValue(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int diff=nums[nums.size()-1]-nums[0];
+        int maxi=INT_MIN;
+        int mini=INT_MAX;
+        for(int i=0;i<nums.size();i++){
+            maxi=max(maxi,nums[i]);
+            mini=min(mini,nums[i]);
+        }
+        int diff=maxi-mini;
         long long ans=(long long)k*diff;
         return ans;
     }
