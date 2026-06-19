@@ -84,6 +84,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +165,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
@@ -775,6 +777,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0643-maximum-average-subarray-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poornacharangopal-art/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -832,6 +835,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0724-find-pivot-index](https://github.com/poornacharangopal-art/leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/2574-left-and-right-sum-differences) |
