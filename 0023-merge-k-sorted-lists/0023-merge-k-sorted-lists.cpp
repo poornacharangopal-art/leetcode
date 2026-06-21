@@ -17,6 +17,7 @@ public:
         if(lists.size()==1&&lists[0]==NULL){
             return NULL;
         }
+        priority_queue<int,vector<int>,greater<int>>pq;
         vector<int>v;
         for(int i=0;i<lists.size();i++){
             if(lists[i]==NULL){
@@ -24,14 +25,17 @@ public:
             }
             ListNode* temp1=lists[i];
             while(temp1!=NULL){
-                v.push_back(temp1->val);
+                pq.push(temp1->val);
                 temp1=temp1->next;
             }
         }
-        if(v.size()==0){
+        if(pq.size()==0){
             return NULL;
         }
-        sort(v.begin(),v.end());
+        while(!pq.empty()){
+            v.push_back(pq.top());
+            pq.pop();
+        }
         ListNode* root=new ListNode(v[0]);
         ListNode* temp=root;
         for(int i=1;i<v.size();i++){
