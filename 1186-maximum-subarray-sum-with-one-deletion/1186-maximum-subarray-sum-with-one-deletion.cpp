@@ -21,8 +21,8 @@ public:
 
         }
         ans=max(ans,right[n-1]);
-        if(ans==1726)
-        return 1727;
+        ans=max(ans,left[n-1]);
+        
         return ans;
     }
 };
