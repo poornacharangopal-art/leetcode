@@ -143,6 +143,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
@@ -428,6 +429,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
@@ -442,6 +444,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -461,6 +464,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -777,6 +781,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -873,6 +878,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3355-zero-array-transformation-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -941,4 +947,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
