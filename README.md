@@ -147,6 +147,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -586,6 +587,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
 | ------- |
@@ -963,4 +965,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
