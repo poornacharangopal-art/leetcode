@@ -147,6 +147,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |
