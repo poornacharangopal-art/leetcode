@@ -369,6 +369,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/poornacharangopal-art/leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +434,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/poornacharangopal-art/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
