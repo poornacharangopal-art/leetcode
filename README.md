@@ -530,6 +530,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
 ## Bucket Sort
 |  |
