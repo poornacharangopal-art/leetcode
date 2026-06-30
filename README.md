@@ -434,6 +434,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
+| [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/poornacharangopal-art/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
@@ -527,6 +528,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
 ## Bucket Sort
 |  |
 | ------- |
