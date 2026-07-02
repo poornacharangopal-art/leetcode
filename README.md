@@ -475,6 +475,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -531,6 +532,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -639,6 +641,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
