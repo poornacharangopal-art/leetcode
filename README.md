@@ -13,6 +13,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0033-search-in-rotated-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/poornacharangopal-art/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/poornacharangopal-art/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/poornacharangopal-art/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
@@ -392,6 +393,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0001-two-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/poornacharangopal-art/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/poornacharangopal-art/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/poornacharangopal-art/leetcode/tree/master/0141-linked-list-cycle) |
@@ -593,6 +595,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/poornacharangopal-art/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
