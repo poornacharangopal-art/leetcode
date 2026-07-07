@@ -115,6 +115,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2057-smallest-index-with-equal-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poornacharangopal-art/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poornacharangopal-art/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -432,6 +433,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/2032-two-out-of-three) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -600,6 +602,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
