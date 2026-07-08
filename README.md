@@ -364,6 +364,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0593-valid-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0593-valid-square) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -999,4 +1000,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
