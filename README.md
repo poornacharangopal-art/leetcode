@@ -405,6 +405,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/poornacharangopal-art/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -476,6 +477,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0169-majority-element](https://github.com/poornacharangopal-art/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/poornacharangopal-art/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -514,6 +516,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/poornacharangopal-art/leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/poornacharangopal-art/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
