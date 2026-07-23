@@ -181,6 +181,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0374-guess-number-higher-or-lower](https://github.com/poornacharangopal-art/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -220,6 +221,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -365,6 +367,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0445-add-two-numbers-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
