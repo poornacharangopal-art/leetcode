@@ -69,6 +69,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0485-max-consecutive-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -180,6 +181,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0367-valid-perfect-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/poornacharangopal-art/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -220,6 +222,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
@@ -270,6 +273,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -422,6 +426,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0451-sort-characters-by-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
