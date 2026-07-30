@@ -334,6 +334,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/poornacharangopal-art/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -404,6 +405,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -578,6 +580,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2490-circular-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/2490-circular-sentence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
