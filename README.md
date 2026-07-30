@@ -125,6 +125,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2032-two-out-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2104-sum-of-subarray-ranges](https://github.com/poornacharangopal-art/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poornacharangopal-art/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -710,6 +711,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0739-daily-temperatures](https://github.com/poornacharangopal-art/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/poornacharangopal-art/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -721,6 +723,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0739-daily-temperatures](https://github.com/poornacharangopal-art/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/poornacharangopal-art/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
