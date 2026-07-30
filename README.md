@@ -69,6 +69,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -703,6 +704,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0234-palindrome-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -712,6 +714,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
