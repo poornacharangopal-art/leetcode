@@ -1080,4 +1080,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/poornacharangopal-art/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
