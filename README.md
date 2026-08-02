@@ -330,6 +330,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0413-arithmetic-slices](https://github.com/poornacharangopal-art/leetcode/tree/master/0413-arithmetic-slices) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/poornacharangopal-art/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
 ## Greedy
@@ -397,6 +398,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0628-maximum-product-of-three-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/poornacharangopal-art/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -669,6 +671,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -1073,4 +1076,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/0014-longest-common-prefix) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
