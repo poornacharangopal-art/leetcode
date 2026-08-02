@@ -91,6 +91,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/poornacharangopal-art/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -330,6 +331,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0396-rotate-function](https://github.com/poornacharangopal-art/leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/poornacharangopal-art/leetcode/tree/master/0413-arithmetic-slices) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/poornacharangopal-art/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -399,6 +401,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0628-maximum-product-of-three-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -678,6 +681,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
 |  |
