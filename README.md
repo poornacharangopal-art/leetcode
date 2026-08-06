@@ -422,6 +422,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -973,6 +974,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/poornacharangopal-art/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
