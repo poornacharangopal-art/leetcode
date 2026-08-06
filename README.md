@@ -1104,5 +1104,6 @@ MY LEETCODE SOLUTIONS IN C++
 | [0176-second-highest-salary](https://github.com/poornacharangopal-art/leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/poornacharangopal-art/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/poornacharangopal-art/leetcode/tree/master/0184-department-highest-salary) |
 | [1193-monthly-transactions-i](https://github.com/poornacharangopal-art/leetcode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
