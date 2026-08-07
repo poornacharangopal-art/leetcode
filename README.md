@@ -1086,6 +1086,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
