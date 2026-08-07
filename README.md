@@ -166,6 +166,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3659-partition-array-into-k-distinct-groups](https://github.com/poornacharangopal-art/leetcode/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -315,6 +316,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3536-maximum-product-of-two-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -507,6 +509,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3583-count-special-triplets](https://github.com/poornacharangopal-art/leetcode/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/poornacharangopal-art/leetcode/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
