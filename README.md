@@ -967,6 +967,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1106,6 +1107,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Probability and Statistics
 |  |
 | ------- |
