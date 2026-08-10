@@ -126,6 +126,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/poornacharangopal-art/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -771,6 +772,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1688-count-of-matches-in-tournament](https://github.com/poornacharangopal-art/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1929-concatenation-of-array) |
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poornacharangopal-art/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
