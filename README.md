@@ -177,6 +177,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3689-maximum-total-subarray-value-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
@@ -533,6 +534,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3659-partition-array-into-k-distinct-groups](https://github.com/poornacharangopal-art/leetcode/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
@@ -646,6 +648,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3522-calculate-score-after-performing-instructions](https://github.com/poornacharangopal-art/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -1018,6 +1021,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/poornacharangopal-art/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Prefix Sum
 |  |
 | ------- |
