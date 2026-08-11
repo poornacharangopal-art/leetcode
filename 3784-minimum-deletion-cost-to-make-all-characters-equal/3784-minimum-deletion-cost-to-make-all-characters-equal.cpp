@@ -12,11 +12,12 @@ public:
         for(auto&p:mp){
             costs.push_back(p.second);
         }
-        sort(costs.begin(),costs.end());
+        long long maxi=LONG_MIN;
         long long ans=0;
-        for(int i=0;i<costs.size()-1;i++){
+        for(int i=0;i<costs.size();i++){
             ans+=costs[i];
+            maxi=max(costs[i],maxi);
         }
-        return ans;
+        return ans-maxi;
     }
 };
