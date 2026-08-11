@@ -275,6 +275,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/poornacharangopal-art/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/poornacharangopal-art/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
@@ -650,6 +651,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3522-calculate-score-after-performing-instructions](https://github.com/poornacharangopal-art/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/poornacharangopal-art/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
@@ -808,6 +810,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/poornacharangopal-art/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/poornacharangopal-art/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
