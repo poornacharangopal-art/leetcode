@@ -115,6 +115,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1539-kth-missing-positive-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -221,6 +222,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poornacharangopal-art/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
