@@ -179,6 +179,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/poornacharangopal-art/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -457,6 +458,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/poornacharangopal-art/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3945-digit-frequency-score](https://github.com/poornacharangopal-art/leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
@@ -1101,6 +1103,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Reservoir Sampling
 |  |
 | ------- |
