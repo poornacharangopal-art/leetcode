@@ -101,6 +101,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -327,6 +328,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0786-k-th-smallest-prime-fraction](https://github.com/poornacharangopal-art/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -451,6 +453,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0633-sum-of-square-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -585,6 +588,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0190-reverse-bits](https://github.com/poornacharangopal-art/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -726,6 +730,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/poornacharangopal-art/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
@@ -735,6 +740,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -1186,6 +1192,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0593-valid-square) |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -1222,4 +1229,8 @@ MY LEETCODE SOLUTIONS IN C++
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
