@@ -1,15 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        sort(points.begin(),points.end(),[&](vector<int> a,vector<int> b){
-            int disa=a[0]*a[0]+a[1]*a[1];
-            int disb=b[0]*b[0]+b[1]*b[1];
-            if(disa==disb){
-                return a[0]<b[0];
+        priority_queue<vector<int>>pq;
+        vector<vector<int>>ans(k);
+        for(int i=0;i<points.size();i++){
+            int a=points[i][0],b=points[i][1];
+            int dis=a*a+b*b;
+            vector<int>v(2);
+            v[0]=dis;
+            v[1]=i;
+            pq.push(v);
+            if(pq.size()>k){
+                pq.pop();
             }
-            return disa<disb;
-        });
-        vector<vector<int>>v(points.begin(),points.begin()+k);
-        return v;
+        }
+        int n=k-1;
+        while(!pq.empty()){
+            vector<int>v=pq.top();
+            int index=v[1];
+            v=points[index];
+            pq.pop();
+            ans[n]=v;
+            n--;
+        }
+        return ans;
     }
 };
