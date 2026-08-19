@@ -110,6 +110,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1288-remove-covered-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -373,6 +374,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1754-largest-merge-of-two-strings) |
@@ -400,6 +402,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -519,6 +522,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
