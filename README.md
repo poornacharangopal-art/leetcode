@@ -533,6 +533,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/poornacharangopal-art/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -596,6 +597,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -659,6 +661,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/poornacharangopal-art/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
