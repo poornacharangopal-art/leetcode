@@ -166,6 +166,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/poornacharangopal-art/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -856,6 +857,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2553-separate-the-digits-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
