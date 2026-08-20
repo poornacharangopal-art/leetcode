@@ -1215,6 +1215,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0181-employees-earning-more-than-their-managers](https://github.com/poornacharangopal-art/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/poornacharangopal-art/leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/poornacharangopal-art/leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/poornacharangopal-art/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/poornacharangopal-art/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/poornacharangopal-art/leetcode/tree/master/0577-employee-bonus) |
 | [1193-monthly-transactions-i](https://github.com/poornacharangopal-art/leetcode/tree/master/1193-monthly-transactions-i) |
