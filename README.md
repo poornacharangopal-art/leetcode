@@ -482,6 +482,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/poornacharangopal-art/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
