@@ -390,6 +390,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/poornacharangopal-art/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -466,6 +467,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/poornacharangopal-art/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -679,6 +681,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1832-check-if-the-sentence-is-pangram](https://github.com/poornacharangopal-art/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/poornacharangopal-art/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -777,6 +780,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0292-nim-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
 |  |
