@@ -7,14 +7,15 @@ public:
             sort(s.begin(),s.end());
             mp[s].push_back(i);
         }
-         vector<vector<string>>v;
-         for(auto&p:mp){
-            vector<string>v1;
-            for(int i=0;i<p.second.size();i++){
-                v1.push_back(strs[p.second[i]]);
+        vector<vector<string>>ans;
+        for(auto&p:mp){
+            vector<int>v=p.second;
+            vector<string>s;
+            for(int i=0;i<v.size();i++){
+                s.push_back(strs[v[i]]);
             }
-            v.push_back(v1);
-         } 
-         return v;
+            ans.push_back(s);
+        }
+        return ans;
     }
 };
