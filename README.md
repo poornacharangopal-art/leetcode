@@ -9,6 +9,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0001-two-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -246,6 +247,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -303,6 +305,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
