@@ -106,6 +106,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poornacharangopal-art/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -773,6 +774,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1107,6 +1109,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
