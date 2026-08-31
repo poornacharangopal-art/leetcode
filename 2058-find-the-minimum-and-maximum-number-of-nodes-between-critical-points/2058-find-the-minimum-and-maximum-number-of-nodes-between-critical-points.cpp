@@ -10,9 +10,8 @@
  */
 class Solution {
 public:
-    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+    vector<int> nodesBetweenCriticalPoints(ListNode* temp) {
         vector<int>ans;
-        ListNode*temp=head;
         ListNode*prev=NULL;
         int count=0;
         while(temp!=NULL){
