@@ -203,6 +203,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -503,6 +504,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/poornacharangopal-art/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3945-digit-frequency-score](https://github.com/poornacharangopal-art/leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
