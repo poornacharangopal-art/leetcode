@@ -207,6 +207,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3875-construct-uniform-parity-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
@@ -1156,6 +1157,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
