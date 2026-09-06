@@ -546,6 +546,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0380-insert-delete-getrandom-o1](https://github.com/poornacharangopal-art/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/poornacharangopal-art/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -624,6 +625,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0190-reverse-bits](https://github.com/poornacharangopal-art/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -687,6 +689,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0389-find-the-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/poornacharangopal-art/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
@@ -1065,6 +1068,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0209-minimum-size-subarray-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/poornacharangopal-art/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/poornacharangopal-art/leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/poornacharangopal-art/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
