@@ -387,6 +387,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -673,6 +674,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/poornacharangopal-art/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
