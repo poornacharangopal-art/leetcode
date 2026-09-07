@@ -106,6 +106,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/poornacharangopal-art/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0916-word-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0916-word-subsets) |
 | [0922-sort-array-by-parity-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -569,6 +570,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/poornacharangopal-art/leetcode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/poornacharangopal-art/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0916-word-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0916-word-subsets) |
 | [0930-binary-subarrays-with-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/poornacharangopal-art/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -710,6 +712,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0771-jewels-and-stones](https://github.com/poornacharangopal-art/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
+| [0916-word-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/poornacharangopal-art/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
