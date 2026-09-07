@@ -29,6 +29,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0090-subsets-ii) |
@@ -682,6 +683,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0058-length-of-last-word](https://github.com/poornacharangopal-art/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/poornacharangopal-art/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -798,6 +800,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0036-valid-sudoku](https://github.com/poornacharangopal-art/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -1064,6 +1067,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0046-permutations](https://github.com/poornacharangopal-art/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/poornacharangopal-art/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -1107,6 +1111,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
