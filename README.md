@@ -1314,6 +1314,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/poornacharangopal-art/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/poornacharangopal-art/leetcode/tree/master/0577-employee-bonus) |
 | [1193-monthly-transactions-i](https://github.com/poornacharangopal-art/leetcode/tree/master/1193-monthly-transactions-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/poornacharangopal-art/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Minimax
 |  |
 | ------- |
