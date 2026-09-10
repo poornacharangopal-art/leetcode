@@ -969,6 +969,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1015,6 +1016,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/poornacharangopal-art/leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
