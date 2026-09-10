@@ -967,6 +967,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1156,6 +1157,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0508-most-frequent-subtree-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/poornacharangopal-art/leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -1176,6 +1178,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
