@@ -22,6 +22,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/poornacharangopal-art/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
@@ -1092,6 +1093,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0040-combination-sum-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/poornacharangopal-art/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/poornacharangopal-art/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/poornacharangopal-art/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
@@ -1370,4 +1372,8 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/poornacharangopal-art/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
