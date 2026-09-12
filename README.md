@@ -213,6 +213,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/3866-first-unique-even-element) |
@@ -389,6 +390,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/poornacharangopal-art/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -765,6 +767,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
@@ -1107,6 +1110,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1202,6 +1206,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3483-unique-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/poornacharangopal-art/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 ## Prefix Sum
 |  |
 | ------- |
