@@ -40,6 +40,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/poornacharangopal-art/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0137-single-number-ii) |
@@ -821,6 +822,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
@@ -948,6 +950,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1162,6 +1165,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poornacharangopal-art/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poornacharangopal-art/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
@@ -1190,6 +1194,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0112-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poornacharangopal-art/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
