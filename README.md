@@ -84,6 +84,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/poornacharangopal-art/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/poornacharangopal-art/leetcode/tree/master/0565-array-nesting) |
@@ -410,6 +411,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/poornacharangopal-art/leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/poornacharangopal-art/leetcode/tree/master/0413-arithmetic-slices) |
+| [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
@@ -821,6 +823,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
@@ -1191,6 +1194,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
