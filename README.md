@@ -955,6 +955,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/poornacharangopal-art/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -1184,6 +1185,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/poornacharangopal-art/leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1206,6 +1208,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
@@ -1329,6 +1332,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
@@ -1397,4 +1401,12 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0051-n-queens](https://github.com/poornacharangopal-art/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0052-n-queens-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
