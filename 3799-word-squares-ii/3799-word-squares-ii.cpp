@@ -9,6 +9,16 @@ public:
     }
     for(int j=0;j<words.size();j++){
         if(used[j])continue;
+         //pruning
+        if(v.size() == 1 && words[j][0] != v[0][0])
+    continue;
+
+if(v.size() == 2 && words[j][0] != v[0][3])
+    continue;
+
+if(v.size() == 3 && 
+   (words[j][0] != v[1][3] || words[j][3] != v[2][3]))
+    continue;
         used[j]=1;
         v.push_back(words[j]);
         backtrack(words,v,ans,used);
