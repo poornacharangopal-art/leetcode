@@ -136,6 +136,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1539-kth-missing-positive-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/poornacharangopal-art/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -831,6 +832,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -957,6 +959,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -1188,6 +1191,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -1212,6 +1216,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Enumeration
 |  |
