@@ -44,6 +44,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0135-candy](https://github.com/poornacharangopal-art/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/poornacharangopal-art/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -411,6 +412,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornacharangopal-art/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/poornacharangopal-art/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/poornacharangopal-art/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/poornacharangopal-art/leetcode/tree/master/0396-rotate-function) |
@@ -559,6 +561,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0049-group-anagrams](https://github.com/poornacharangopal-art/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/poornacharangopal-art/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poornacharangopal-art/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -712,6 +715,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0115-distinct-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/poornacharangopal-art/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -1125,6 +1129,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/poornacharangopal-art/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/0216-combination-sum-iii) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -1357,6 +1362,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poornacharangopal-art/leetcode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Probability and Statistics
 |  |
@@ -1426,4 +1432,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/poornacharangopal-art/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
