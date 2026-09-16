@@ -445,6 +445,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1833-maximum-ice-cream-bars](https://github.com/poornacharangopal-art/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/poornacharangopal-art/leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -530,6 +531,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/poornacharangopal-art/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -1140,6 +1142,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0357-count-numbers-with-unique-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 ## Sliding Window
