@@ -523,6 +523,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/poornacharangopal-art/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/poornacharangopal-art/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/poornacharangopal-art/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1368,6 +1369,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0593-valid-square](https://github.com/poornacharangopal-art/leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/poornacharangopal-art/leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/poornacharangopal-art/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
 | ------- |
