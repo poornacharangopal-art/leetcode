@@ -783,6 +783,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/poornacharangopal-art/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -966,6 +967,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/poornacharangopal-art/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3612-process-string-with-special-operations-i) |
