@@ -1220,6 +1220,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0565-array-nesting](https://github.com/poornacharangopal-art/leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1245,6 +1246,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
@@ -1375,6 +1377,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -1469,13 +1472,16 @@ MY LEETCODE SOLUTIONS IN C++
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
