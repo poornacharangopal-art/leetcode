@@ -1522,4 +1522,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0518-coin-change-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
