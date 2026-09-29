@@ -171,6 +171,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/poornacharangopal-art/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/poornacharangopal-art/leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2381-shifting-letters-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -433,6 +434,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1227-airplane-seat-assignment-probability](https://github.com/poornacharangopal-art/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
@@ -868,6 +870,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1447,6 +1450,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## K-D Tree
 |  |
 | ------- |
