@@ -235,6 +235,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3904-smallest-stable-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -440,6 +441,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
+| [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1033,6 +1035,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1240,6 +1243,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
