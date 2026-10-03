@@ -132,6 +132,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/poornacharangopal-art/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/poornacharangopal-art/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -878,6 +879,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1219-path-with-maximum-gold](https://github.com/poornacharangopal-art/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
@@ -1178,6 +1180,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0526-beautiful-arrangement](https://github.com/poornacharangopal-art/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1219-path-with-maximum-gold](https://github.com/poornacharangopal-art/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
