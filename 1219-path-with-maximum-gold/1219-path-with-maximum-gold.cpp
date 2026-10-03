@@ -27,8 +27,8 @@ public:
             vis[i][j-1]=1;
             dfs(i,j-1,grid,sum,ans,vis);
         }
-        vis[i][j]=0;
         ans=max(ans,sum);
+        vis[i][j]=0;
         return ans;
     }
     int getMaximumGold(vector<vector<int>>& grid) {
