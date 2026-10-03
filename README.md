@@ -83,6 +83,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/poornacharangopal-art/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/poornacharangopal-art/leetcode/tree/master/0506-relative-ranks) |
@@ -429,6 +430,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/poornacharangopal-art/leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/poornacharangopal-art/leetcode/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/poornacharangopal-art/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
@@ -1172,6 +1174,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0216-combination-sum-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/poornacharangopal-art/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1534,6 +1537,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1551,4 +1555,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
