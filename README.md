@@ -773,6 +773,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0784-letter-case-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/poornacharangopal-art/leetcode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
 | [0916-word-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0916-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/poornacharangopal-art/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/poornacharangopal-art/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -954,6 +955,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0503-next-greater-element-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/poornacharangopal-art/leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1474,6 +1476,7 @@ MY LEETCODE SOLUTIONS IN C++
 | ------- |
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## K-D Tree
