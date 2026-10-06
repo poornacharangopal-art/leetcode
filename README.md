@@ -455,6 +455,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0135-candy](https://github.com/poornacharangopal-art/leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornacharangopal-art/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -775,6 +776,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0848-shifting-letters](https://github.com/poornacharangopal-art/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
 | [0916-word-subsets](https://github.com/poornacharangopal-art/leetcode/tree/master/0916-word-subsets) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornacharangopal-art/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/poornacharangopal-art/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/poornacharangopal-art/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -957,6 +959,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0739-daily-temperatures](https://github.com/poornacharangopal-art/leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornacharangopal-art/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -1477,6 +1480,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornacharangopal-art/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## K-D Tree
