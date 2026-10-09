@@ -27,6 +27,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0054-spiral-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
@@ -877,6 +878,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0036-valid-sudoku](https://github.com/poornacharangopal-art/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
@@ -989,6 +991,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/poornacharangopal-art/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0682-baseball-game) |
