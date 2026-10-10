@@ -1,6 +1,8 @@
 # Write your MySQL query statement below
-SELECT s.id,
-(CASE WHEN id%2=0 THEN s.prev ELSE COALESCE(s.next, s.current_student) END) AS student
-FROM (SELECT id,student AS current_student,LAG(student)OVER(ORDER BY id) AS prev,LEAD(student)OVER(ORDER BY id) AS next
+SELECT 
+CASE WHEN id%2=1 AND id+1 IN (SELECT id FROM Seat) THEN id+1 
+WHEN id%2=0 AND id-1 IN(SELECT id FROM Seat) THEN id-1
+ELSE id END AS id,
+student
 FROM Seat
-) s;
+ORDER BY id;
