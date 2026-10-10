@@ -1487,6 +1487,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/poornacharangopal-art/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/poornacharangopal-art/leetcode/tree/master/0577-employee-bonus) |
 | [0608-tree-node](https://github.com/poornacharangopal-art/leetcode/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/poornacharangopal-art/leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/poornacharangopal-art/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1193-monthly-transactions-i](https://github.com/poornacharangopal-art/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/poornacharangopal-art/leetcode/tree/master/1321-restaurant-growth) |
