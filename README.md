@@ -420,6 +420,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0115-distinct-subsequences) |
@@ -517,6 +518,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0050-powx-n](https://github.com/poornacharangopal-art/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/poornacharangopal-art/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/poornacharangopal-art/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/poornacharangopal-art/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1539,6 +1541,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 ## Topological Sort
 |  |
