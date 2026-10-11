@@ -30,6 +30,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/poornacharangopal-art/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/poornacharangopal-art/leetcode/tree/master/0075-sort-colors) |
@@ -425,6 +426,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0045-jump-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -893,6 +895,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0048-rotate-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/poornacharangopal-art/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poornacharangopal-art/leetcode/tree/master/0130-surrounded-regions) |
