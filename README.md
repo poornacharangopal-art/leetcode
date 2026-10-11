@@ -25,6 +25,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0051-n-queens](https://github.com/poornacharangopal-art/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/poornacharangopal-art/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -421,6 +422,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0022-generate-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/poornacharangopal-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/poornacharangopal-art/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -459,6 +461,7 @@ MY LEETCODE SOLUTIONS IN C++
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/poornacharangopal-art/leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/poornacharangopal-art/leetcode/tree/master/0561-array-partition) |
