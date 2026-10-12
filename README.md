@@ -79,6 +79,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0275-h-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/poornacharangopal-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/poornacharangopal-art/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/poornacharangopal-art/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -443,6 +444,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0140-word-break-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/poornacharangopal-art/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/poornacharangopal-art/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/poornacharangopal-art/leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0392-is-subsequence) |
@@ -1319,6 +1321,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0210-course-schedule-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/poornacharangopal-art/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/poornacharangopal-art/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/poornacharangopal-art/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
@@ -1592,11 +1595,13 @@ MY LEETCODE SOLUTIONS IN C++
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/poornacharangopal-art/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/poornacharangopal-art/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/0518-coin-change-ii) |
 ## Manacher
 |  |
