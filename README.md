@@ -251,6 +251,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3904-smallest-stable-index-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search
 |  |
