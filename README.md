@@ -859,6 +859,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3798-largest-even-number](https://github.com/poornacharangopal-art/leetcode/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/poornacharangopal-art/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/poornacharangopal-art/leetcode/tree/master/3941-password-strength) |
 ## Bucket Sort
