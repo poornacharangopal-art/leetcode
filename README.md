@@ -590,6 +590,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2409-count-days-spent-together](https://github.com/poornacharangopal-art/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/poornacharangopal-art/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/poornacharangopal-art/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -838,6 +839,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/poornacharangopal-art/leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2490-circular-sentence](https://github.com/poornacharangopal-art/leetcode/tree/master/2490-circular-sentence) |
