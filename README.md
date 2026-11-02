@@ -465,6 +465,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0542-01-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0788-rotated-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/0788-rotated-digits) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/poornacharangopal-art/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/poornacharangopal-art/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -527,6 +528,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0526-beautiful-arrangement](https://github.com/poornacharangopal-art/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/poornacharangopal-art/leetcode/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/poornacharangopal-art/leetcode/tree/master/0832-flipping-an-image) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -1357,6 +1359,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
@@ -1493,6 +1496,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -1574,6 +1578,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/poornacharangopal-art/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Algorithm X
