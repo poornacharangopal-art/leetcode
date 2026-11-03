@@ -237,6 +237,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3718-smallest-missing-multiple-of-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poornacharangopal-art/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/poornacharangopal-art/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -612,6 +613,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/poornacharangopal-art/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/poornacharangopal-art/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3871-count-commas-in-range-ii) |
