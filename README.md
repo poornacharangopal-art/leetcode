@@ -850,6 +850,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1980-find-unique-binary-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2211-count-collisions-on-a-road](https://github.com/poornacharangopal-art/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -1030,6 +1031,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poornacharangopal-art/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/poornacharangopal-art/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/poornacharangopal-art/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1061,6 +1063,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2149-rearrange-array-elements-by-sign](https://github.com/poornacharangopal-art/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poornacharangopal-art/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/poornacharangopal-art/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2211-count-collisions-on-a-road](https://github.com/poornacharangopal-art/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2553-separate-the-digits-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
