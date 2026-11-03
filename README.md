@@ -184,6 +184,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2094-finding-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/poornacharangopal-art/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2126-destroying-asteroids](https://github.com/poornacharangopal-art/leetcode/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/poornacharangopal-art/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poornacharangopal-art/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -414,6 +415,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/poornacharangopal-art/leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -499,6 +501,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1833-maximum-ice-cream-bars](https://github.com/poornacharangopal-art/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/poornacharangopal-art/leetcode/tree/master/2126-destroying-asteroids) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/poornacharangopal-art/leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
