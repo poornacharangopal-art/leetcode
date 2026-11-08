@@ -146,6 +146,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1207-unique-number-of-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/poornacharangopal-art/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -758,6 +759,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0594-longest-harmonious-subsequence](https://github.com/poornacharangopal-art/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/poornacharangopal-art/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -947,6 +949,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/poornacharangopal-art/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
@@ -1088,6 +1091,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0547-number-of-provinces](https://github.com/poornacharangopal-art/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/poornacharangopal-art/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1342,6 +1346,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1380,6 +1385,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornacharangopal-art/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
