@@ -179,6 +179,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
 | [2032-two-out-of-three](https://github.com/poornacharangopal-art/leetcode/tree/master/2032-two-out-of-three) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2057-smallest-index-with-equal-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poornacharangopal-art/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -416,6 +417,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/poornacharangopal-art/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/poornacharangopal-art/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poornacharangopal-art/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/poornacharangopal-art/leetcode/tree/master/2126-destroying-asteroids) |
@@ -603,6 +605,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1927-sum-game](https://github.com/poornacharangopal-art/leetcode/tree/master/1927-sum-game) |
 | [2028-find-missing-observations](https://github.com/poornacharangopal-art/leetcode/tree/master/2028-find-missing-observations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/poornacharangopal-art/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2409-count-days-spent-together](https://github.com/poornacharangopal-art/leetcode/tree/master/2409-count-days-spent-together) |
@@ -956,6 +959,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1861-rotating-the-box](https://github.com/poornacharangopal-art/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/poornacharangopal-art/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poornacharangopal-art/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
