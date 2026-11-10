@@ -242,6 +242,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3659-partition-array-into-k-distinct-groups](https://github.com/poornacharangopal-art/leetcode/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/poornacharangopal-art/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poornacharangopal-art/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -490,6 +491,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2305-fair-distribution-of-cookies](https://github.com/poornacharangopal-art/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3660-jump-game-ix](https://github.com/poornacharangopal-art/leetcode/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Greedy
 |  |
