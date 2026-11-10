@@ -502,6 +502,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poornacharangopal-art/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poornacharangopal-art/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/poornacharangopal-art/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/poornacharangopal-art/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/poornacharangopal-art/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -753,6 +754,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0347-top-k-frequent-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0973-k-closest-points-to-origin](https://github.com/poornacharangopal-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -1144,6 +1146,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
@@ -1161,6 +1164,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0501-find-mode-in-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/poornacharangopal-art/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1199,6 +1203,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -1369,6 +1374,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1367-linked-list-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
