@@ -226,6 +226,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3355-zero-array-transformation-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1335,6 +1336,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
@@ -1465,6 +1467,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2574-left-and-right-sum-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3355-zero-array-transformation-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/3356-zero-array-transformation-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3903-smallest-stable-index-i) |
