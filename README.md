@@ -202,6 +202,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2536-increment-submatrices-by-one](https://github.com/poornacharangopal-art/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2540-minimum-common-value](https://github.com/poornacharangopal-art/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/poornacharangopal-art/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/poornacharangopal-art/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -427,6 +428,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/poornacharangopal-art/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/poornacharangopal-art/leetcode/tree/master/2126-destroying-asteroids) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/poornacharangopal-art/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/poornacharangopal-art/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -520,6 +522,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/poornacharangopal-art/leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/poornacharangopal-art/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/poornacharangopal-art/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/poornacharangopal-art/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
