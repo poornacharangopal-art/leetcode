@@ -224,6 +224,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/poornacharangopal-art/leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1115,6 +1116,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3174-clear-digits) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/poornacharangopal-art/leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/poornacharangopal-art/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
