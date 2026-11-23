@@ -150,6 +150,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/poornacharangopal-art/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/poornacharangopal-art/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/poornacharangopal-art/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -610,6 +611,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/poornacharangopal-art/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/poornacharangopal-art/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/poornacharangopal-art/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -1473,6 +1475,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1109-corporate-flight-bookings](https://github.com/poornacharangopal-art/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/poornacharangopal-art/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poornacharangopal-art/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/poornacharangopal-art/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1521,6 +1524,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0707-design-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1563,6 +1567,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0295-find-median-from-data-stream](https://github.com/poornacharangopal-art/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/poornacharangopal-art/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/poornacharangopal-art/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Segment Tree
 |  |
 | ------- |
