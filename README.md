@@ -633,6 +633,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/poornacharangopal-art/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
@@ -1106,6 +1107,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/poornacharangopal-art/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/poornacharangopal-art/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/poornacharangopal-art/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3498-reverse-degree-of-a-string) |
