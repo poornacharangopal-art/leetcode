@@ -224,6 +224,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/poornacharangopal-art/leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
@@ -636,6 +637,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2965-find-missing-and-repeated-values](https://github.com/poornacharangopal-art/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
+| [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/poornacharangopal-art/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1558,6 +1560,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1492-the-kth-factor-of-n](https://github.com/poornacharangopal-art/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/poornacharangopal-art/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/poornacharangopal-art/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Reservoir Sampling
@@ -1790,4 +1793,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
