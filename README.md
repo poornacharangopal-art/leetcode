@@ -226,6 +226,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3127-make-a-square-with-the-same-color](https://github.com/poornacharangopal-art/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
+| [3128-right-triangles](https://github.com/poornacharangopal-art/leetcode/tree/master/3128-right-triangles) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/poornacharangopal-art/leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
@@ -639,6 +640,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/poornacharangopal-art/leetcode/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
+| [3128-right-triangles](https://github.com/poornacharangopal-art/leetcode/tree/master/3128-right-triangles) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/poornacharangopal-art/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -741,6 +743,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poornacharangopal-art/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/poornacharangopal-art/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3128-right-triangles](https://github.com/poornacharangopal-art/leetcode/tree/master/3128-right-triangles) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/poornacharangopal-art/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/poornacharangopal-art/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -798,6 +801,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2351-first-letter-to-appear-twice](https://github.com/poornacharangopal-art/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/poornacharangopal-art/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3128-right-triangles](https://github.com/poornacharangopal-art/leetcode/tree/master/3128-right-triangles) |
 | [3467-transform-array-by-parity](https://github.com/poornacharangopal-art/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3583-count-special-triplets](https://github.com/poornacharangopal-art/leetcode/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1585,6 +1589,7 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/poornacharangopal-art/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3128-right-triangles](https://github.com/poornacharangopal-art/leetcode/tree/master/3128-right-triangles) |
 ## Interactive
 |  |
 | ------- |
