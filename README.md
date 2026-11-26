@@ -907,6 +907,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2942-find-words-containing-character](https://github.com/poornacharangopal-art/leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3136-valid-word](https://github.com/poornacharangopal-art/leetcode/tree/master/3136-valid-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/poornacharangopal-art/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/poornacharangopal-art/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -1484,6 +1485,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2094-finding-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/poornacharangopal-art/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/poornacharangopal-art/leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3127-make-a-square-with-the-same-color](https://github.com/poornacharangopal-art/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
