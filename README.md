@@ -908,6 +908,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/poornacharangopal-art/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/poornacharangopal-art/leetcode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/3248-snake-in-matrix) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/poornacharangopal-art/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1376,6 +1377,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/poornacharangopal-art/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poornacharangopal-art/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/poornacharangopal-art/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/poornacharangopal-art/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/poornacharangopal-art/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
