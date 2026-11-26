@@ -958,6 +958,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/poornacharangopal-art/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poornacharangopal-art/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/poornacharangopal-art/leetcode/tree/master/2974-minimum-number-game) |
+| [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/poornacharangopal-art/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
@@ -1422,6 +1423,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poornacharangopal-art/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3965-finish-time-of-tasks-i](https://github.com/poornacharangopal-art/leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Breadth-First Search
@@ -1463,6 +1465,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
+| [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3905-multi-source-flood-fill](https://github.com/poornacharangopal-art/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Enumeration
@@ -1604,6 +1607,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
+| [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/poornacharangopal-art/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -1782,4 +1786,8 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/poornacharangopal-art/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/poornacharangopal-art/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 <!---LeetCode Topics End-->
