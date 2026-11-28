@@ -164,6 +164,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/poornacharangopal-art/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornacharangopal-art/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/poornacharangopal-art/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/poornacharangopal-art/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1732-find-the-highest-altitude](https://github.com/poornacharangopal-art/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1154,6 +1155,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [1020-number-of-enclaves](https://github.com/poornacharangopal-art/leetcode/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/poornacharangopal-art/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/poornacharangopal-art/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/poornacharangopal-art/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poornacharangopal-art/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
@@ -1619,6 +1621,7 @@ MY LEETCODE SOLUTIONS IN C++
 | [0797-all-paths-from-source-to-target](https://github.com/poornacharangopal-art/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/poornacharangopal-art/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/poornacharangopal-art/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/poornacharangopal-art/leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -1809,4 +1812,20 @@ MY LEETCODE SOLUTIONS IN C++
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/poornacharangopal-art/leetcode/tree/master/3115-maximum-prime-difference) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/poornacharangopal-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
